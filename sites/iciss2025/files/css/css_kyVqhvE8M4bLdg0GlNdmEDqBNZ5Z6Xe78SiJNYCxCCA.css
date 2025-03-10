@@ -9367,7 +9367,7 @@ body {
 }
 
 .main-container-inner {
-    background: transparent url(sites/all/themes/custom/conferences2/images/body-bg-lt-s.png) top left repeat-y;
+    background: transparent url("sites/all/themes/custom/conferences2/images/body-bg-lt-s.png") top left repeat-y;
 }
 
 .region-content,
