@@ -9352,7 +9352,7 @@ body {
 
 @media screen and (min-width:768px) {
     .main-container {
-        background: #f1f1f2 url(sites/all/themes/custom/conferences2/images/body-bg-top-s.png) top left no-repeat;
+        background: #f1f1f2 url(/sites/all/themes/custom/conferences2/images/body-bg-top-s.png) top left no-repeat;
     }
 }
 
@@ -9362,12 +9362,12 @@ body {
 
 @media screen and (min-width:768px) {
     .main-container-middle {
-        background: transparent url(sites/all/themes/custom/conferences2/images/body-bg-rt-s-bw.png) top right repeat-y;
+        background: transparent url(/sites/all/themes/custom/conferences2/images/body-bg-rt-s-bw.png) top right repeat-y;
     }
 }
 
 .main-container-inner {
-    background: transparent url("sites/all/themes/custom/conferences2/images/body-bg-lt-s.png") top left repeat-y;
+    background: transparent url(/sites/all/themes/custom/conferences2/images/body-bg-lt-s.png) top left repeat-y;
 }
 
 .region-content,
